@@ -1,0 +1,4 @@
+python3 acc.py --sso sso_list.txt --cliproxy ./auth_out
+
+
+sso_list.txt 添加 sso进去
